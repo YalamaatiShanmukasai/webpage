@@ -1,0 +1,10 @@
+{
+  "product": "CodeVexa",
+  "tracks": [
+    {"id":"c","title":"Complete C Programming","modules":13,"level":"Beginner to Advanced"},
+    {"id":"java","title":"Complete Java Programming","modules":11,"level":"Beginner to Advanced"},
+    {"id":"python","title":"Complete Python Programming","modules":11,"level":"Beginner to Advanced"}
+  ],
+  "lesson_features":["concept","syntax","worked example","common mistakes","practice","quiz","coding challenge","AI Tutor"],
+  "progression":["lesson completion","module assessment","projects","XP","coins","badges"]
+}
