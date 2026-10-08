@@ -1,0 +1,15 @@
+{
+  "version":"0.1",
+  "principles":[
+    "Validate program intent where a problem explicitly permits equivalent implementations.",
+    "Do not require an exact variable name unless the problem says the name is required.",
+    "Use AST or parse-tree analysis for structural requirements.",
+    "Use deterministic test execution for behavioral requirements.",
+    "Never let an AI model be the final correctness authority."
+  ],
+  "assignment":{
+    "requirement":"assign a literal value to any variable",
+    "acceptedExamples":["coin = 3","a = 3","x = 3","my_number = 3"],
+    "rejectedExamples":["a = 5","print(3)"]
+  }
+}
