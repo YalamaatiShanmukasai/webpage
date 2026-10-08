@@ -1,0 +1,7 @@
+{
+  "problems":[
+    {"id":"variables-001","title":"Store a Value","difficulty":"Easy","topic":"Variables","languages":["c","java","python"],"statement":"Create a variable and store the value 3 in it. The variable name is your choice.","semanticRules":[{"type":"assignment","value":3,"target":"any-variable"}],"xp":50,"coins":20},
+    {"id":"math-001","title":"Add Two Numbers","difficulty":"Easy","topic":"Operators","languages":["c","java","python"],"statement":"Read two integers and output their sum.","semanticRules":[{"type":"program-behavior","operation":"sum","inputs":[[2,3],[10,7],[0,9]]}],"xp":75,"coins":30},
+    {"id":"loops-001","title":"Count to N","difficulty":"Easy","topic":"Loops","languages":["c","java","python"],"statement":"Read N and print every integer from 1 through N.","semanticRules":[{"type":"program-behavior","operation":"sequence","start":1,"end":"input"}],"xp":100,"coins":40}
+  ]
+}
